@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/464608139599581337/36f44bc7c549496599cfd471fc97ae96/artifacts
+end_time: 1742974489521
+entry_point_name: ''
+experiment_id: '464608139599581337'
+lifecycle_stage: active
+run_id: 36f44bc7c549496599cfd471fc97ae96
+run_name: omniscient-finch-996
+run_uuid: 36f44bc7c549496599cfd471fc97ae96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742974487943
+status: 3
+tags: []
+user_id: MOOLCHANDANI

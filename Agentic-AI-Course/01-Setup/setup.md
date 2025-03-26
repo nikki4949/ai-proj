@@ -231,7 +231,8 @@ To use this API:
 
 2. Send messages:
    ```bash
-   curl -X POST -H "Content-Type: application/json" -d '{"message": "Hello", "session_id": "your-session-id"}' http://localhost:8000/chat
+   curl -X POST -H "Content-Type: application/json" -d "{\"message\": \"Tell me about Delhi!\", \"session_id\": \"your_session_id\"}" http://localhost:8000/chat
+
    ```
    Returns: `{"response": "Hi!", "session_id": "your-session-id"}`
 
